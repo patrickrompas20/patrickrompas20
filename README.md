@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickrompas20
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Larav
+- 🌱 I’m currently learning Laravel
 
 <!---
 patrickrompas20/patrickrompas20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
