@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Saya **Trick20**, seorang pengembang Laravel pemula yang bersemangat untuk mendalami dunia pengembangan web! 🌍 Mari kita bangun sesuatu yang luar biasa bersama!
+Saya **Trick20**, seorang laravel developer pemula yang bersemangat untuk mendalami dunia pengembangan web! 🌍 Mari kita bangun sesuatu yang luar biasa bersama!
 
 ## Tentang Saya
 
