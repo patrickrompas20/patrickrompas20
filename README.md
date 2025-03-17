@@ -10,7 +10,7 @@ Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari te
 
 ## Skills & Technologies
 
-laravel,php,html,css,mysql
+(https://skillicons.dev/icons?i=laravel,php,mysql,html,css&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -36,4 +36,4 @@ Configuration files for my GitHub profile, demonstrating my journey in coding an
 
 ## Connect with Me!
 
-{"instagram":"https://www.instagram.com/trick20_z/"}
+<a href="https://www.instagram.com/trick20_z/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
