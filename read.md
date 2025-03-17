@@ -1,0 +1,39 @@
+## Hi there! 👋
+
+Saya **Trick20**, seorang pengembang Laravel pemula yang bersemangat untuk mendalami dunia pengembangan web! 🌍 Mari kita bangun sesuatu yang luar biasa bersama!
+
+## Tentang Saya
+
+Saya seorang mahasiswa IT yang fokus di pengembangan web, terutama menggunakan Laravel. Saat ini, Laravel adalah teknologi yang paling sering saya gunakan dan eksplorasi dalam proyek-proyek saya.
+
+Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari teknologi lain di masa depan. Bagi saya, coding itu bukan sekadar menulis kode, tapi juga tentang mencari solusi yang efisien dan membangun sesuatu yang bermanfaat.
+
+## Skills & Technologies
+
+laravel,php,html,css,mysql
+
+## Top Projects
+
+### [Company Profile](https://github.com/patrickrompas20/company_profile)
+A responsive company profile website built with Laravel, showcasing company info, services, projects, and contact details. 
+- ⭐ 2 Stars
+- 🌐 Language: JavaScript
+- 🔄 Forks: 0
+
+### [GitHub Profile Config](https://github.com/patrickrompas20/patrickrompas20)
+Configuration files for my GitHub profile, demonstrating my journey in coding and development.
+- ⭐ 1 Star
+- 🌐 Language: N/A
+- 🔄 Forks: 0
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickrompas20&show_icons=true&theme=radical)
+
+- **Public Repositories**: 2
+- **Followers**: 0
+- **Following**: 1
+
+## Connect with Me!
+
+{"instagram":"https://www.instagram.com/trick20_z/"}
