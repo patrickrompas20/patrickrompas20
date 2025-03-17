@@ -1,15 +1,71 @@
-<h1 align="center">Hi 👋, I'm Patrick Rompas</h1>
-
-<h3 align="center">Saya seorang mahasiswa IT yang fokus di pengembangan web, terutama menggunakan Laravel. Saat ini, Laravel adalah teknologi yang paling sering saya gunakan dan eksplorasi dalam proyek-proyek saya. Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari teknologi lain di masa depan. Bagi saya, coding itu bukan sekadar menulis kode, tapi juga tentang mencari solusi yang efisien dan membangun sesuatu yang bermanfaat.</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<!---
-patrickrompas20/patrickrompas20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        .tech-stack {
+            margin-top: 20px;
+        }
+        .tech-stack span {
+            background: #ff9800;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 5px;
+            margin: 5px;
+            display: inline-block;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: #ff9800;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👋 Hi, I'm [Your Name]</h1>
+        <p>Saya seorang mahasiswa IT yang fokus di pengembangan web, terutama menggunakan <strong>Laravel</strong>. Saat ini, Laravel adalah teknologi yang paling sering saya gunakan dan eksplorasi dalam proyek-proyek saya.</p>
+        <p>Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari teknologi lain di masa depan.</p>
+        
+        <div class="tech-stack">
+            <h2>🔧 Tech Stack yang Saya Gunakan:</h2>
+            <span>Laravel</span>
+            <span>PHP</span>
+            <span>MySQL</span>
+        </div>
+        
+        <div class="contact">
+            <h2>📫 Mari Terhubung!</h2>
+            <p>Jika kamu punya proyek menarik atau ingin berdiskusi tentang web development, jangan ragu untuk menghubungi saya! 🚀</p>
+            <p><a href="https://github.com/[YourGitHubUsername]" target="_blank">GitHub</a> | <a href="mailto:your.email@example.com">Email</a></p>
+        </div>
+    </div>
+</body>
+</html>
