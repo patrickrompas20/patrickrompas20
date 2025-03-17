@@ -10,7 +10,7 @@ Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari te
 
 ## Skills & Technologies
 
-https://skillicons.dev/icons?i=laravel,php,mysql,html,css&perline=8)](https://skillicons.dev
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,html,css,mysql)](https://skillicons.dev)
 
 ## Top Projects
 
