@@ -12,14 +12,6 @@ Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari te
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,html,css,mysql)](https://skillicons.dev)
 
-## Top Projects
-
-### [Company Profile](https://github.com/patrickrompas20/company_profile)
-A responsive company profile website built with Laravel, showcasing company info, services, projects, and contact details. 
-- ⭐ 2 Stars
-- 🌐 Language: JavaScript
-- 🔄 Forks: 0
-
 ### [GitHub Profile Config](https://github.com/patrickrompas20/patrickrompas20)
 Configuration files for my GitHub profile, demonstrating my journey in coding and development.
 - ⭐ 1 Star
