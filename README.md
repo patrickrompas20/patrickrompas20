@@ -8,7 +8,7 @@ As a Laravel enthusiast, I enjoy turning ideas into clean, functional, and user-
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,html,css,javascript,tailwind,bootstrap)](https://skillicons.dev)
 
 ## Connect with Me!
 
