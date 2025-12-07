@@ -1,12 +1,10 @@
 ## Hi there! 👋
 
-Saya **Trick20**, seorang laravel developer pemula yang bersemangat untuk mendalami dunia pengembangan web! 🌍 Mari kita bangun sesuatu yang luar biasa bersama!
+I'm Trick20, a junior web developer with a strong passion for learning and building efficient digital solutions. My main focus right now is web development with Laravel, and I'm continuously exploring its ecosystem through various projects and experiments.
 
-## Tentang Saya
+## About Me
 
-Saya seorang mahasiswa IT yang fokus di pengembangan web, terutama menggunakan Laravel. Saat ini, Laravel adalah teknologi yang paling sering saya gunakan dan eksplorasi dalam proyek-proyek saya.
-
-Meskipun saya masih setia dengan Laravel, saya juga terbuka untuk mempelajari teknologi lain di masa depan. Bagi saya, coding itu bukan sekadar menulis kode, tapi juga tentang mencari solusi yang efisien dan membangun sesuatu yang bermanfaat.
+As a Laravel enthusiast, I enjoy turning ideas into clean, functional, and user-friendly applications. Even though Laravel is currently my primary stack, I'm always open to expanding my skill set and learning new technologies in the future. For me, coding isn’t just about writing code — it’s about solving real problems and creating impactful digital experiences.
 
 ## Skills & Technologies
 
