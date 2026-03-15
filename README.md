@@ -1,8 +1,5 @@
 # Hi there, I'm Patrick (Trick20) 👋 
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Coding%20isn’t%20just%20about%20writing%20code%E2%80%94it’s%20about%20solving%20real%20problems." alt="Quote" />
-</p>
 
 ### 👨‍💻 About Me
 
@@ -28,8 +25,8 @@ I am a **Junior Web Developer** and a **Fresh Graduate in Computer Engineering**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickrompas&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Patrick's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrompas&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-Rompas&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Patrick's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Rompas&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ---
