@@ -25,8 +25,8 @@ I am a **Junior Web Developer** and a **Fresh Graduate in Computer Engineering**
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patrickrompas20&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Patrick's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrompas20&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patrickrompas20&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrompas20&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" height="180" />
 </p>
 
 ---
